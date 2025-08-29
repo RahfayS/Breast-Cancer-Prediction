@@ -1,6 +1,6 @@
-# Breast-Cancer-Prediction
+# Breast-Cancer-Reoccurrence-Prediction
 
-This project explores a dataset of breast cancer patients with the goal of predicting patient mortality.  
+This project explores a dataset of breast cancer patients with the goal of predicting the likelihood of a patients cancer reoccurrence
 By applying machine learning techniques, I aim to identify key factors that influence survival outcomes and develop a model capable of accurately classifying mortality risk.
 
 ---
